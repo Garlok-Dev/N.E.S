@@ -1,3 +1,3 @@
 # N.E.S
-Esto es N.E.S y te aseguro que te quitara un poco de tiempo muerto.
-Para mas Información visita https://Garlok-Dev.github.io/nes
+This is N.E.S and I assure you that you will have fun with it for a few minutes.
+For more information please visit my website: https://Garlok-Dev.github.io/nes
